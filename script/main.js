@@ -133,11 +133,11 @@ const animationTimeline = () => {
     .from(
       ".idea-5",
       0.7, {
-        rotationX: 25,
-        rotationZ: -20,
+        rotationX: 15,
+        rotationZ: -10,
         skewY: "-5deg",
-        y: 70,
-        z: 20,
+        y: 50,
+        z: 10,
         opacity: 0,
       },
       "+=0.5"
