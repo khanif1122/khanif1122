@@ -122,7 +122,7 @@ const animationTimeline = () => {
     .to(".idea-2", 0.7, ideaTextTransLeave, "+=5")
     .from(".idea-3", 0.7, ideaTextTrans)
     .to(".idea-3 strong", 0.5, {
-      scale: 0.7,
+      scale: 1.2,
       x: 10,
       backgroundColor: "rgb(21, 161, 237)",
       color: "#fff",
